@@ -1,0 +1,62 @@
+[
+    {
+        "Food": "Kale",
+        "Nutrition Value (per 100g)": "High in Vitamins A, C, K",
+        "Quantity": "1 cup, chopped",
+        "Originated From": "Ancient Greece",
+        "Calories": 49,
+        "Protein (g)": 4.3,
+        "Fiber (g)": 3.6,
+        "Vitamin C (mg)": 93.4,
+        "Antioxidant Score": 1770,
+        "Description": "Kale is a nutritious food that is known for being high in vitamins A, C, K. It originates from Ancient Greece and is a great addition to a healthy diet.",
+        "Tags": [
+            "Vitamins",
+            "Nutrition",
+            "Superfood",
+            "Healthy",
+            "High"
+        ],
+        "Image_URL": "https://www.freepik.com/free-photo/fresh-green-kale-leaves-rustic-background_2829792.htm#fromView=search&page=1&position=0&uuid=abcd1234"
+    },
+    {
+        "Food": "Blueberries",
+        "Nutrition Value (per 100g)": "High in Antioxidants",
+        "Quantity": "1 cup",
+        "Originated From": "North America",
+        "Calories": 84,
+        "Protein (g)": 1.1,
+        "Fiber (g)": 3.6,
+        "Vitamin C (mg)": 14.4,
+        "Antioxidant Score": 9621,
+        "Description": "Blueberries are nutritious and high in antioxidants. They originate from North America and are a great addition to a healthy diet.",
+        "Tags": [
+            "Antioxidants",
+            "Nutrition",
+            "Superfood",
+            "Healthy",
+            "High"
+        ],
+        "Image_URL": "https://www.freepik.com/free-photo/fresh-blueberries-with-mint-leaves_2928435.htm#fromView=search&page=1&position=0&uuid=efgh5678"
+    },
+    {
+        "Food": "Salmon",
+        "Nutrition Value (per 100g)": "Rich in Omega-3 Fatty Acids",
+        "Quantity": "3 oz",
+        "Originated From": "North Pacific Ocean",
+        "Calories": 208,
+        "Protein (g)": 22.1,
+        "Fiber (g)": 0,
+        "Vitamin C (mg)": 0,
+        "Antioxidant Score": 689,
+        "Description": "Salmon is rich in omega-3 fatty acids. It originates from the North Pacific Ocean and is a great addition to a healthy diet.",
+        "Tags": [
+            "Rich",
+            "Omega-3",
+            "Nutrition",
+            "Superfood",
+            "Healthy"
+        ],
+        "Image_URL": "https://www.freepik.com/free-photo/raw-salmon-fish-vintage-pan_3239067.htm#fromView=search&page=1&position=0&uuid=ijkl9012"
+    }
+]
